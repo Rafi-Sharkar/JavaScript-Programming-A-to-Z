@@ -1,0 +1,24 @@
+
+.para-style{
+    color: red;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.my-style{
+    color: tomato;
+    font-size: 3rem;
+}
+
+.myButton{
+    margin-right: 1rem;
+    padding: 1rem 1.5rem;
+    
+}
+
+.animation{
+    box-shadow: 5px 5px 0px 0 yellow,
+    -5px -5px 0px 0 yellow;
+    
+}
